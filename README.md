@@ -1,6 +1,7 @@
 ```sh
 git clone https://github.com/kxb0116/myzsh.git ~/.config/zsh
 cd ~/.config/zsh/
+chmod +x install.sh
 ./install.sh
 ```
 添加这一段到 `~/.zshrc` 的开头
